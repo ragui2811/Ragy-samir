@@ -2,7 +2,6 @@
 
 int main ( char argc , char** argv[]) 
 {
-    printf ("the argument chardfds e argument vector is  ") ; 
-    printf("Hello World \n ");
+    printf ("Hello Ragy " ) ; 
     return 0 ; 
 }
